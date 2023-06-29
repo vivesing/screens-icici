@@ -2,7 +2,7 @@
   "channels": [
     {
       "manifestPath": "/content/screens/lobby-area/lobby-west-corner.manifest.json",
-      "lastModified": "2023-05-29T07:00:39.197Z",
+      "lastModified": "2023-06-29T11:47:34.541Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -14,8 +14,25 @@
         }
       ],
       "externalId": "/content/screens/lobby-area/lobby-west-corner",
-      "title": "Lobby West Corner",
+      "title": "Lobby Area Near Lift",
       "liveUrl": "https://main--screens-icici--vivesing.hlx.live/content/screens/lobby-area/lobby-west-corner.html"
+    },
+    {
+      "manifestPath": "/content/screens/assets/logo.manifest.json",
+      "lastModified": "2023-06-29T11:47:36.007Z",
+      "hierarchy": [
+        {
+          "title": "screens",
+          "path": "/content/screens"
+        },
+        {
+          "title": "assets",
+          "path": "/content/screens/assets"
+        }
+      ],
+      "externalId": "/content/screens/assets/logo",
+      "title": "",
+      "liveUrl": "https://main--screens-icici--vivesing.hlx.live/content/screens/assets/logo.html"
     }
   ],
   "metadata": {
