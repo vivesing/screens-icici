@@ -1,0 +1,76 @@
+{
+  "channels": [
+    {
+      "manifestPath": "/content/screens/lobby-area/lobby-east-corner.manifest.json",
+      "lastModified": "2023-05-23T16:33:00.000Z",
+      "hierarchy": [
+        {
+          "title": "screens",
+          "path": "/content/screens"
+        },
+        {
+          "title": "lobby-area",
+          "path": "/content/screens/lobby-area"
+        }
+      ],
+      "externalId": "/content/screens/lobby-area/lobby-east-corner",
+      "title": "Lobby Area Near Pantry",
+      "liveUrl": "https://main--mayo-clinic-screens--hlxscreens.hlx.live/content/screens/lobby-area/lobby-east-corner.html"
+    },
+    {
+      "manifestPath": "/content/screens/lobby-area/lobby-west-corner.manifest.json",
+      "lastModified": "2023-05-29T07:00:39.197Z",
+      "hierarchy": [
+        {
+          "title": "screens",
+          "path": "/content/screens"
+        },
+        {
+          "title": "lobby-area",
+          "path": "/content/screens/lobby-area"
+        }
+      ],
+      "externalId": "/content/screens/lobby-area/lobby-west-corner",
+      "title": "Lobby Area Near Lift",
+      "liveUrl": "https://main--mayo-clinic-screens--hlxscreens.hlx.live/content/screens/lobby-area/lobby-west-corner.html"
+    },
+    {
+      "manifestPath": "/content/screens/lobby-area/hallway.manifest.json",
+      "lastModified": "2023-05-26T10:33:05.000Z",
+      "hierarchy": [
+        {
+          "title": "screens",
+          "path": "/content/screens"
+        },
+        {
+          "title": "lobby-area",
+          "path": "/content/screens/lobby-area"
+        }
+      ],
+      "externalId": "/content/screens/lobby-area/hallway",
+      "title": "Hallway welcome",
+      "liveUrl": "https://main--mayo-clinic-screens--hlxscreens.hlx.live/content/screens/lobby-area/hallway.html",
+      "editUrl": "https://adobe.sharepoint.com//r/sites/HelixScreensProjects/_layouts/15/Doc.aspx?sourcedoc=%7BEF43E0FE-B1CD-4CC2-A183-B9D7E5CEEF08%7D&file=Hallway.docx&action=default&mobileredirect=true"
+    },
+    {
+      "manifestPath": "/content/screens/lobby-area/lobby-area-near-lift.manifest.json",
+      "lastModified": "2023-05-26T10:33:05.000Z",
+      "hierarchy": [
+        {
+          "title": "screens",
+          "path": "/content/screens"
+        },
+        {
+          "title": "lobby-area",
+          "path": "/content/screens/lobby-area"
+        }
+      ],
+      "externalId": "/content/screens/lobby-area/lobby-area-near-lift",
+      "title": "Lobby Area Near Lift",
+      "liveUrl": "https://main--mayo-clinic-screens--hlxscreens.hlx.live/content/screens/lobby-area/lobby-area-near-lift.html"
+    }
+  ],
+  "metadata": {
+    "providerType": "franklin"
+  }
+}
