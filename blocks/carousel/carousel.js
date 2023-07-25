@@ -110,7 +110,7 @@ const generateHeader = (contentContainer) => {
   const logo = document.createElement('div');
   logo.classList.add('logo');
   const logoImage = document.createElement('img');
-  logoImage.src = 'https://main--screens-icici--vivesing.hlx.live/content/screens/assets/media_1dc5096869e2316ada2bcea06a14ce6a051655323.png?width=2000&format=webply&optimize=medium';
+  logoImage.src = 'https://main--screens-icici--vivesing.hlx.live/content/screens/assets/media_1d1349e926306a75807266b43b3a940a6e53b25a2.png?width=2000&format=webply&optimize=medium';
   logo.appendChild(logoImage);
   header.appendChild(logo);
   const datetime = document.createElement('div');
