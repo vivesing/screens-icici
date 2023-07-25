@@ -19,7 +19,7 @@
     },
     {
       "manifestPath": "/content/screens/assets/logo.manifest.json",
-      "lastModified": "2023-07-25T05:18:48.592Z",
+      "lastModified": "2023-07-25T05:18:53.000Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -36,7 +36,7 @@
     },
     {
       "manifestPath": "/content/screens/lobby-area/hallway-poster.manifest.json",
-      "lastModified": "2023-07-25T05:18:48.936Z",
+      "lastModified": "2023-07-25T05:55:26.563Z",
       "hierarchy": [
         {
           "title": "screens",
