@@ -9,7 +9,7 @@
     ],
     "defaultProvider": "franklin"
   },
-  "timestamp": 1690264526471,
+  "timestamp": 1690267261771,
   "entries": [
     {
       "path": "/content/screens/assets/logo.html",
@@ -30,6 +30,30 @@
     {
       "path": "/content/screens/assets/media_1d1349e926306a75807266b43b3a940a6e53b25a2.png?width=750&format=png&optimize=medium",
       "hash": "1d1349e926306a75807266b43b3a940a6e53b25a2"
+    },
+    {
+      "path": "/scripts/delayed.js",
+      "timestamp": 1688026696000
+    },
+    {
+      "path": "/blocks/columns/columns.css",
+      "timestamp": 1688026694000
+    },
+    {
+      "path": "/blocks/columns/columns.js",
+      "timestamp": 1688026694000
+    },
+    {
+      "path": "/blocks/carousel/carousel.js",
+      "timestamp": 1690262174000
+    },
+    {
+      "path": "/blocks/carousel/carousel.css",
+      "timestamp": 1688040943000
+    },
+    {
+      "path": "/styles/lazy-styles.css",
+      "timestamp": 1688026696000
     }
   ]
 }

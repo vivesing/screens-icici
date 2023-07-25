@@ -9,7 +9,7 @@
     ],
     "defaultProvider": "franklin"
   },
-  "timestamp": 1690264526183,
+  "timestamp": 1690267261414,
   "entries": [
     {
       "path": "/content/screens/lobby-area/lobby-west-corner.html",
@@ -38,6 +38,30 @@
     {
       "path": "/content/screens/lobby-area/media_18edfcd15540f572f090c407f91445be26374d99b.png?width=750&format=png&optimize=medium",
       "hash": "18edfcd15540f572f090c407f91445be26374d99b"
+    },
+    {
+      "path": "/scripts/delayed.js",
+      "timestamp": 1688026696000
+    },
+    {
+      "path": "/blocks/columns/columns.css",
+      "timestamp": 1688026694000
+    },
+    {
+      "path": "/blocks/columns/columns.js",
+      "timestamp": 1688026694000
+    },
+    {
+      "path": "/blocks/carousel/carousel.js",
+      "timestamp": 1690262174000
+    },
+    {
+      "path": "/blocks/carousel/carousel.css",
+      "timestamp": 1688040943000
+    },
+    {
+      "path": "/styles/lazy-styles.css",
+      "timestamp": 1688026696000
     }
   ]
 }
